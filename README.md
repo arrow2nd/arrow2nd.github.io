@@ -1,0 +1,3 @@
+# arrow2nd.github.io
+
+ポートフォリオサイトを [arrow2nd.com](https://www.arrow2nd.com/) に移転したので一応...
